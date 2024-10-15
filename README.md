@@ -1,3 +1,13 @@
+<head>
+  <style>
+    code {
+      background-color: yellow; /* Define a cor de fundo */
+      padding: 2px; /* Adiciona um pouco de espaçamento */
+    }
+  </style>
+</head>
+<body>
+
 # Python-Poo
 Exercícios de Programação com Classes em Python gerados pelo chat GPT
 
@@ -253,3 +263,5 @@ Crie uma classe chamada `Contato` com os seguintes atributos:
 Crie uma classe `Agenda` que gerencie uma lista de contatos, com métodos para adicionar, remover, e buscar contatos. Adicione um método para listar todos os contatos em ordem alfabética pelo nome.
 
 **Tarefa:** Crie instâncias de `Contato` e adicione-as à `Agenda`. Busque por contatos e exiba a lista de contatos ordenada alfabeticamente.
+
+</body>
